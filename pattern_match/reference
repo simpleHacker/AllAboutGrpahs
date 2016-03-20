@@ -1,0 +1,5 @@
+== algorithms ==
+* https://www.cs.cmu.edu/~jingx/docs/DBreport.pdf
+* http://vldb.org/pvldb/vol5/p788_zhaosun_vldb2012.pdf
+* https://adriann.github.io/Ullman%20subgraph%20isomorphism.html -- simple original implementation 
+* http://www.visionbib.com/papers/2011/UllmannBits.pdf  -- need to crack for latest implementation
